@@ -1,0 +1,10 @@
+1. Take a number from user and print its table
+2. Generate 100 random numbers between 10 and 90 and store them in a separate array
+	a. Find their sum and average
+	b. Find maximum number
+	c. Find minimum number
+	d. Check how many numbers are greater than 40 (using continue command)
+	e. Find the sum of numbers greater than 40
+3. Generate one random number b/w 1 and 10. Ask user to guess three times. If correct, loop should break.
+4. Make a program to check the common numbers b/w two lists.
+5. Input a text statement from user and check how many times a particular character is repeated in that text.
