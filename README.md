@@ -32,5 +32,55 @@ This program inputs a number from a user and prints a reverse triangle pattern.
 This program inputs a statement from a user and individually counts each character repeated in that statement.
 10. **[Palindrome Check](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%204%20Palindrome%20Tester.ipynb)**
 This program inputs a string/number from a user and checks where it is palindrome or not.
+```
+Enter a word, date, statement or sentence to see if it is a palindrome or not: Nurses Run
+
+The list of relevant alphabets and numbers is: 
+ ['n', 'u', 'r', 's', 'e', 's', 'r', 'u', 'n']
+
+The left  list is:  ['n', 'u', 'r', 's']
+The right list is:  ['e', 's', 'r', 'u', 'n']
+
+Since the total number of relevant alphabets/numbers was odd, so, the new truncated right list is:  ['s', 'r', 'u', 'n']
+
+The reversed right list is:  ['n', 'u', 'r', 's']
+
+
+Since, right and left lists are equal, therefore, THIS IS A PALINDROME
+
+
+
+
+
+Enter a word, date, statement or sentence to see if it is a palindrome or not: 02/02/2020
+
+The list of relevant alphabets and numbers is: 
+ ['0', '2', '0', '2', '2', '0', '2', '0']
+
+The left  list is:  ['0', '2', '0', '2']
+The right list is:  ['2', '0', '2', '0']
+
+The reversed right list is:  ['0', '2', '0', '2']
+
+
+Since, right and left lists are equal, therefore, THIS IS A PALINDROME
+
+
+
+
+
+Enter a word, date, statement or sentence to see if it is a palindrome or not: My name is Ans Imran 
+
+The list of relevant alphabets and numbers is: 
+ ['m', 'y', 'n', 'a', 'm', 'e', 'i', 's', 'a', 'n', 's', 'i', 'm', 'r', 'a', 'n']
+
+The left  list is:  ['m', 'y', 'n', 'a', 'm', 'e', 'i', 's']
+The right list is:  ['a', 'n', 's', 'i', 'm', 'r', 'a', 'n']
+
+The reversed right list is:  ['n', 'a', 'r', 'm', 'i', 's', 'n', 'a']
+
+
+Since, right and left lists are not equal, therefore, THIS IS NOT A PALINDROME
+```
 11. **[Diamond Shape Pattern Printing](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%205%20Diamond%20Printer.ipynb)**
 This program inputs a number from a user and prints diamond shape pattern.
