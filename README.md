@@ -84,3 +84,70 @@ Since, right and left lists are not equal, therefore, THIS IS NOT A PALINDROME
 ```
 11. **[Diamond Shape Pattern Printing](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%205%20Diamond%20Printer.ipynb)**
 This program inputs a number from a user and prints diamond shape pattern.
+**First Diamond**
+```
+Enter the Max Width of the diamond, the length will be adjusted accordingly: 35
+Enter the character whose diamond you want to print: A
+                 A
+                A A
+               A   A
+              A     A
+             A       A
+            A         A
+           A           A
+          A             A
+         A               A
+        A                 A
+       A                   A
+      A                     A
+     A                       A
+    A                         A
+   A                           A
+  A                             A
+ A                               A
+A                                 A
+ A                               A
+  A                             A
+   A                           A
+    A                         A
+     A                       A
+      A                     A
+       A                   A
+        A                 A
+         A               A
+          A             A
+           A           A
+            A         A
+             A       A
+              A     A
+               A   A
+                A A
+                 A
+```
+**Second Diamond**
+```
+Enter a number:    9
+
+
+
+         99
+        8  8
+       7    7
+      6      6
+     5        5
+    4          4
+   3            3
+  2              2
+ 1                1
+0                  0
+0                  0
+ 1                1
+  2              2
+   3            3
+    4          4
+     5        5
+      6      6
+       7    7
+        8  8
+         99
+```
