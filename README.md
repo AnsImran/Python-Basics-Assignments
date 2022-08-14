@@ -23,13 +23,65 @@ This program generates a random integer between 1 & 10 and then asks the user to
 This program generates two random lists of desired parameters. It then automatically finds the common elements among the two random lists.
 6. **[Alphabet Frequency in a Statement/List](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A2%20-%205%20Character%20Repititons%20in%20a%20Statement.ipynb)**
 This program inputs a statement from a user and counts how many times a particular alphabet is repeated in that text.
+
 ### Assignment - 3 (Dated: 30-July-2022)
 7. **[Vowels and Consonants Count](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%201%20Vowels%20and%20Consonants.ipynb)**
 This program inputs a statement from a user and counts number of vowels and consonants in that statement.
+```
+Enter a statement: aEi    Ou qw rt p s 1234567890 ./,;'][!@#$%`~
+
+
+
+The list of Vowels    is:  ['a', 'E', 'i', 'O', 'u']
+
+The number of vowels  is:  5
+
+
+
+The list of Consonants    is:  ['q', 'w', 'r', 't', 'p', 's']
+
+The number of Consonants  is:  6
+```
 8. **[Reverse Triangle Printing](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%202%20Reverse%20Triangle%20Printer.ipynb)**
 This program inputs a number from a user and prints a reverse triangle pattern.
+```
+Enter the number whose triangle you want to print: 9
+
+1 2 3 4 5 6 7 8 9 
+1 2 3 4 5 6 7 8 
+1 2 3 4 5 6 7 
+1 2 3 4 5 6 
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+```
+
 9. **[Character Count 2.0](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%203%20Character%20Counter.ipynb)**
 This program inputs a statement from a user and individually counts each character repeated in that statement.
+```
+Enter a statement: A bB ccC dddD eeeeE fffffF  .. ~ 99
+The character [A] is repeated 1 times
+ 
+The character [ ] is repeated 9 times
+ 
+The character [B] is repeated 2 times
+ 
+The character [C] is repeated 3 times
+ 
+The character [D] is repeated 4 times
+ 
+The character [E] is repeated 5 times
+ 
+The character [F] is repeated 6 times
+ 
+The character [.] is repeated 2 times
+ 
+The character [~] is repeated 1 times
+ 
+The character [9] is repeated 2 times
+```
 10. **[Palindrome Check](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%204%20Palindrome%20Tester.ipynb)**
 This program inputs a string/number from a user and checks where it is palindrome or not.
 ```
