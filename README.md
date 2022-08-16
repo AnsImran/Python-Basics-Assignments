@@ -207,7 +207,7 @@ Enter a number:    9
 
 [Student Data](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A4%20-%201%20Student%20Data.ipynb)
 This program asks student their name, father name, mother name, class, section email address, age and courses he/she wants to enroll and saves the data in a dictionary.
-'''
+```
 Please Enter Student Name: Imran Khan
 
 Please Enter Student Father Name: Khan Niazi
@@ -254,4 +254,4 @@ Age                                89
 Email Address                      imrankhan@ptimail.com 
 
 Courses                            ['Political Science', 'Economics', 'Establishment', 'West'] 
-'''
+```
