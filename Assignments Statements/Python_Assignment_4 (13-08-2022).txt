@@ -1,0 +1,9 @@
+Assignment - 4 (Dated: 13-August-2022)
+
+Student Data: This program asks student their 
+name, 
+email address, 
+age and 
+courses he/she wants to enroll 
+and 
+saves the data in a dictionary.
