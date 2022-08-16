@@ -98,7 +98,7 @@ Since the total number of relevant alphabets/numbers was odd, so, the new trunca
 The reversed right list is:  ['n', 'u', 'r', 's']
 
 
-Since, right and left lists are equal, therefore, THIS IS A PALINDROME
+Since, the left list and the reversed right list are equal, therefore, THIS IS A PALINDROME
 
 
 
@@ -115,7 +115,7 @@ The right list is:  ['2', '0', '2', '0']
 The reversed right list is:  ['0', '2', '0', '2']
 
 
-Since, right and left lists are equal, therefore, THIS IS A PALINDROME
+Since, the left list and the reversed right list are equal, therefore, THIS IS A PALINDROME
 
 
 
@@ -132,7 +132,7 @@ The right list is:  ['a', 'n', 's', 'i', 'm', 'r', 'a', 'n']
 The reversed right list is:  ['n', 'a', 'r', 'm', 'i', 's', 'n', 'a']
 
 
-Since, right and left lists are not equal, therefore, THIS IS NOT A PALINDROME
+Since, the left list and the reversed right list are not equal, therefore, THIS IS NOT A PALINDROME
 ```
 11. **[Diamond Shape Pattern Printing](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%205%20Diamond%20Printer.ipynb)**
 This program inputs a number from a user and prints diamond shape pattern.
