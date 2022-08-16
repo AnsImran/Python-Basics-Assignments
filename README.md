@@ -208,50 +208,36 @@ Enter a number:    9
 [Student Data](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A4%20-%201%20Student%20Data.ipynb)
 This program asks student their name, father name, mother name, class, section email address, age and courses he/she wants to enroll and saves the data in a dictionary.
 ```
-Please Enter Student Name: Imran Khan
+Enter the name of Student Credential # 1, else, enter [q] to Quit: Student Name
+Please Enter Student Student Name: Imran Khan
 
-Please Enter Student Father Name: Khan Niazi
-
-Please Enter Student Mother Name: Shaukat Khanum
-
-Please Enter Student Class: 327
-
-Please Enter Student Section: Red
-
+Enter the name of Student Credential # 2, else, enter [q] to Quit: Age
 Please Enter Student Age: 89
 
-Please Enter Student Email Address: imrankhan@ptimail.com
+Enter the name of Student Credential # 3, else, enter [q] to Quit: Address
+Please Enter Student Address: Bani Gala, Islamabad
 
-If you want to quit press [q], Else, Enter name of subject #1: Political Science
+Enter the name of Student Credential # 4, else, enter [q] to Quit: Courses
+If you want to quit press [q], Else, Enter name of subject # 1: Political Science
 
-If you want to quit press [q], Else, Enter name of subject #2: Economics
+If you want to quit press [q], Else, Enter name of subject # 2: Economics
 
-If you want to quit press [q], Else, Enter name of subject #3: Establishment
+If you want to quit press [q], Else, Enter name of subject # 3: q
 
-If you want to quit press [q], Else, Enter name of subject #4: West
-
-If you want to quit press [q], Else, Enter name of subject #5: q
-
-
+Enter the name of Student Credential # 5, else, enter [q] to Quit: q
 
 
 
-The data of student is as follows: 
 
 
-Name                               Imran Khan 
 
-Father Name                        Khan Niazi 
 
-Mother Name                        Shaukat Khanum 
 
-Class                              327 
+Student Name                       Imran Khan
 
-Section                            Red 
+Age                                89
 
-Age                                89 
+Address                            Bani Gala, Islamabad
 
-Email Address                      imrankhan@ptimail.com 
-
-Courses                            ['Political Science', 'Economics', 'Establishment', 'West'] 
+Courses                            ['Political Science', 'Economics']
 ```
