@@ -203,3 +203,55 @@ Enter a number:    9
         8  8
          99
 ```
+### Assignment - 4 (Dated: 13-August-2022)
+
+[Student Data](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A4%20-%201%20Student%20Data.ipynb)
+This program asks student their name, father name, mother name, class, section email address, age and courses he/she wants to enroll and saves the data in a dictionary.
+'''
+Please Enter Student Name: Imran Khan
+
+Please Enter Student Father Name: Khan Niazi
+
+Please Enter Student Mother Name: Shaukat Khanum
+
+Please Enter Student Class: 327
+
+Please Enter Student Section: Red
+
+Please Enter Student Age: 89
+
+Please Enter Student Email Address: imrankhan@ptimail.com
+
+If you want to quit press [q], Else, Enter name of subject #1: Political Science
+
+If you want to quit press [q], Else, Enter name of subject #2: Economics
+
+If you want to quit press [q], Else, Enter name of subject #3: Establishment
+
+If you want to quit press [q], Else, Enter name of subject #4: West
+
+If you want to quit press [q], Else, Enter name of subject #5: q
+
+
+
+
+
+The data of student is as follows: 
+
+
+Name                               Imran Khan 
+
+Father Name                        Khan Niazi 
+
+Mother Name                        Shaukat Khanum 
+
+Class                              327 
+
+Section                            Red 
+
+Age                                89 
+
+Email Address                      imrankhan@ptimail.com 
+
+Courses                            ['Political Science', 'Economics', 'Establishment', 'West'] 
+'''
