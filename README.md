@@ -214,13 +214,13 @@ Please Enter Student Student Name: Imran Khan
 Enter the name of Student Credential # 2, else, enter [q] to Quit: Age
 Please Enter Student Age: 89
 
-Enter the name of Student Credential # 3, else, enter [q] to Quit: Address
-Please Enter Student Address: Bani Gala, Islamabad
+Enter the name of Student Credential # 3, else, enter [q] to Quit: Email Address
+Please Enter Student Email Address: imrankhan@ptimail.com
 
 Enter the name of Student Credential # 4, else, enter [q] to Quit: Courses
-If you want to quit press [q], Else, Enter name of subject # 1: Political Science
+If you want to quit press [q], Else, Enter name of subject # 1: Political Sciences
 
-If you want to quit press [q], Else, Enter name of subject # 2: Economics
+If you want to quit press [q], Else, Enter name of subject # 2: Macro Economics
 
 If you want to quit press [q], Else, Enter name of subject # 3: q
 
@@ -232,12 +232,11 @@ Enter the name of Student Credential # 5, else, enter [q] to Quit: q
 
 
 
-
 Student Name                       Imran Khan
 
 Age                                89
 
-Address                            Bani Gala, Islamabad
+Email Address                      imrankhan@ptimail.com
 
-Courses                            ['Political Science', 'Economics']
+Courses                            ['Political Sciences', 'Macro Economics']
 ```
