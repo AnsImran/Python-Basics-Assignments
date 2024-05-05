@@ -235,7 +235,7 @@ Functions (custom build functions) & Math Operations.
 
 ### Assignment - 4 (Dated: 13-August-2022)
 #### Assignment Topics:
-Here are the basic concepts of Python used in the provided code:
+
 Nested Loops & Dictionaries.
 
 - [Student Data Dictionary](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A4%20-%201%20Student%20Data.ipynb)
@@ -250,6 +250,7 @@ Nested Loops & Dictionaries.
   
   It then saves the data in a dictionary & prints the dictionary.
 
+	**Input**:
 	```
 	Enter the name of Student Credential # 1, else, enter [q] to Quit: Student Name
 	Please Enter Student Student Name: Imran Khan
@@ -268,13 +269,13 @@ Nested Loops & Dictionaries.
 	If you want to quit press [q], Else, Enter name of subject # 3: q
 	
 	Enter the name of Student Credential # 5, else, enter [q] to Quit: q
+	```
 	
 	
 	
 	
-	
-	
-	
+	**OUTPUT**:
+	```
 	Student Name                       Imran Khan
 	
 	Age                                89
@@ -283,3 +284,70 @@ Nested Loops & Dictionaries.
 	
 	Courses                            ['Political Sciences', 'Macro Economics']
 	```
+
+---
+
+### Assignment - 5
+#### Assignment Topics:
+
+Object-Oriented Programming (Classes & Objects)
+
+- [List of Student Objects](https://github.com/AnsImran/Python-Baiscs-Assignments/blob/main/A5%20-%201%20List%20of%20Student%20Objects.ipynb)
+	This program handles student data entry, including their personal information and course selection. It consists of several functions and a class, each serving a specific purpose.
+
+	**Input**:
+	```
+	 If you want to add a student press y 
+	 else press q to quit:  y
+	
+	
+	
+	Please enter student NAME: 
+	 Ahmad
+	Please enter student CNIC: 
+	 31205-9845053-9
+	Please enter student AGE: 
+	 21
+	Please enter student EMAIL: 
+	 ahmad@gmail.com
+	Please enter student CONTACT_NO: 
+	 0301-2345678
+	
+	Your details are: ['Ahmad', '31205-9845053-9', '21', 'ahmad@gmail.com', '0301-2345678']
+	
+	
+	The courses available to student are: ['Bio', 'Physics', 'chemistry', 'Math', 'Urdu']
+	
+	
+	 If student wants to select the course BIO, press y 
+	 else press n to go to next course 
+	 else press q, to quit course selection:  y
+	
+	 If student wants to select the course PHYSICS, press y 
+	 else press n to go to next course 
+	 else press q, to quit course selection:  n
+	
+	 If student wants to select the course CHEMISTRY, press y 
+	 else press n to go to next course 
+	 else press q, to quit course selection:  y
+	
+	 If student wants to select the course MATH, press y 
+	 else press n to go to next course 
+	 else press q, to quit course selection:  q
+	
+	
+	 If you want to add a student press y 
+	 else press q to quit:  q
+	```
+ 	**OUTPUT**:
+	```
+	Student no.         is: 1
+	Student Name        is: Ahmad
+	Student CNIC        is: 31205-9845053-9
+	Student Age         is: 21
+	Student Email       is: ahmad@gmail.com
+	Student Contact no  is: 0301-2345678
+	Registered Courses are: ['Bio', 'chemistry']
+	```
+ 
+ ---
