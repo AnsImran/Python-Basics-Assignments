@@ -1,41 +1,52 @@
 # Assignments related to basic concepts in Python - [PIAIC AI specilaisation](https://www.piaic.org/artificial-inteligence)
 PIAIC 183815
 
+---
+
 ## Assignment - 1
 #### Assignment Topics:
-Input/Output (I/O), Variables and Data Types, Arithmetic Operations, Lists, Conditional Statements & Loops.
+Input/Output (I/O), Variables and Data Types, Arithmetic Operations, Lists, Conditional Statements(if-else) & Loops.
 
-1. **[Even Vs Odd](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A1%20-%201%20Even%20Vs%20Odd.ipynb)**
+- **[Even Vs Odd](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A1%20-%201%20Even%20Vs%20Odd.ipynb)**
 This program takes as input an integer number from the user and identifies whether it is an even or odd number.
-------------------------------------------------------------------------------------------------------------
 
-2. **[Mark Sheet Printer](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A1%20-%202%20Mark%20Sheet.ipynb)**
+
+- **[Mark Sheet Printer](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A1%20-%202%20Mark%20Sheet.ipynb)**
 This program takes as input:
-- no. of subjects
-- name of each subject
-- total possible marks in each subject
-- total obtained marks in each subject
+	- no. of subjects
+	- name of each subject
+	- total possible marks in each subject
+	- total obtained marks in each subject
 
-It then prints the corresponding marks sheet.
+	It then prints the corresponding marks sheet.
 
---------------------------------------------------------------------------------------------------------------
+---
 
 ## Assignment - 2 (Dated: 23-July-2022)
-2. **[Multiplication Table Printer](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A2%20-%201%20Table%20Printer.ipynb)**
-This program takes an integer number from the user and prints the multiplication table of the specified integer from 1 - 10.
-3. **[Random Numbers](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A2%20-%202%20Random%20Numbers.ipynb)**
+#### Assignment Topics:
+Loops(for loops and while loops), Conditional Statements (if-else), List, Array, String Manipulation, Functions (Built-in Python Functions & Numpy Functions), Importing Modules, Comments
 
+
+- **[Multiplication Table Printer](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A2%20-%201%20Table%20Printer.ipynb)**
+This program takes an integer number from the user and prints the multiplication table of the specified integer from 1 - 10.
+
+- **[Random Numbers](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A2%20-%202%20Random%20Numbers.ipynb)**
 This program can generate any amount/quantity of random numbers between any desired range. It can also perform following analyses on the random numbers:
 	- Sum and average
 	- Maximum and minimum numbers
 	- Frequency of numbers that are greater than 40
 	- Sum of numbers greater than 40
-5. **[Guess Game Using Loops & Break](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A2%20-%203%20Loops%20%26%20Break.ipynb)**
+
+- **[Guess Game Using Loops & Break](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A2%20-%203%20Loops%20%26%20Break.ipynb)**
 This program generates a random integer between 1 & 10 and then asks the user to guess the number. It gives three lifes to a user.
-6. **[Common Elements among Two Lists](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A2%20-%204%20Common%20Elements%20between%20lists.ipynb)**
+
+- **[Common Elements among Two Lists](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A2%20-%204%20Common%20Elements%20between%20lists.ipynb)**
 This program generates two random lists of desired parameters. It then automatically finds the common elements among the two random lists.
-7. **[Alphabet Frequency in a Statement/List](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A2%20-%205%20Character%20Repititons%20in%20a%20Statement.ipynb)**
-This program inputs a statement from a user and counts how many times a particular alphabet is repeated in that text.
+
+- **[Alphabet Frequency in a Statement/List](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A2%20-%205%20Character%20Repititons%20in%20a%20Statement.ipynb)**
+This program takes a statement from a user and counts how many times a particular alphabet is repeated in that text.
+
+---
 
 ### Assignment - 3 (Dated: 30-July-2022)
 7. **[Vowels and Consonants Count](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%201%20Vowels%20and%20Consonants.ipynb)**
