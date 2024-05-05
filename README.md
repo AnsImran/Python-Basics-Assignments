@@ -48,7 +48,7 @@ This program takes a statement from a user and counts how many times a particula
 
 ---
 
-### Assignment - 3 (Dated: 30-July-2022)
+## Assignment - 3 (Dated: 30-July-2022)
 #### Assignment Topics:
 Functions (custom build functions) & Math Operations.
 
@@ -233,7 +233,7 @@ Functions (custom build functions) & Math Operations.
 	```
 ---
 
-### Assignment - 4 (Dated: 13-August-2022)
+## Assignment - 4 (Dated: 13-August-2022)
 #### Assignment Topics:
 
 Nested Loops & Dictionaries.
@@ -287,7 +287,7 @@ Nested Loops & Dictionaries.
 
 ---
 
-### Assignment - 5
+## Assignment - 5
 #### Assignment Topics:
 
 Object-Oriented Programming (Classes & Objects)
