@@ -49,218 +49,237 @@ This program takes a statement from a user and counts how many times a particula
 ---
 
 ### Assignment - 3 (Dated: 30-July-2022)
-7. **[Vowels and Consonants Count](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%201%20Vowels%20and%20Consonants.ipynb)**
-This program inputs a statement from a user and counts number of vowels and consonants in that statement.
-```
-Enter a statement: aEi    Ou qw rt p s 1234567890 ./,;'][!@#$%`~
+#### Assignment Topics:
+Functions (custom build functions) & Math Operations.
 
+- **[Vowels and Consonants Count](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%201%20Vowels%20and%20Consonants.ipynb)**
+	This program inputs a statement from a user and counts number of vowels and consonants in that statement.
+	```
+	Enter a statement: aEi    Ou qw rt p s 1234567890 ./,;'][!@#$%`~
+	
+	
+	
+	The list of Vowels    is:  ['a', 'E', 'i', 'O', 'u']
+	
+	The number of vowels  is:  5
+	
+	
+	
+	The list of Consonants    is:  ['q', 'w', 'r', 't', 'p', 's']
+	
+	The number of Consonants  is:  6
+	```
+- **[Reverse Triangle Printing](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%202%20Reverse%20Triangle%20Printer.ipynb)**
+	This program inputs a number from a user and prints a reverse triangle pattern.
+	```
+	Enter the number whose triangle you want to print: 9
+	
+	1 2 3 4 5 6 7 8 9 
+	1 2 3 4 5 6 7 8 
+	1 2 3 4 5 6 7 
+	1 2 3 4 5 6 
+	1 2 3 4 5 
+	1 2 3 4 
+	1 2 3 
+	1 2 
+	1 
+	```
 
+- **[Character Count 2.0](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%203%20Character%20Counter.ipynb)**
+	This program inputs a statement from a user and individually counts each character repeated in that statement.
+	```
+	Enter a statement: A bB ccC dddD eeeeE fffffF  .. ~ 99
+	The character [A] is repeated 1 times
+	 
+	The character [ ] is repeated 9 times
+	 
+	The character [B] is repeated 2 times
+	 
+	The character [C] is repeated 3 times
+	 
+	The character [D] is repeated 4 times
+	 
+	The character [E] is repeated 5 times
+	 
+	The character [F] is repeated 6 times
+	 
+	The character [.] is repeated 2 times
+	 
+	The character [~] is repeated 1 times
+	 
+	The character [9] is repeated 2 times
+	```
+- **[Palindrome Check](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%204%20Palindrome%20Tester.ipynb)**
+	This program inputs a string/number from a user and checks where it is palindrome or not.
+	```
+	Enter a word, date, statement or sentence to see if it is a palindrome or not: Nurses Run
+	
+	The list of relevant alphabets and numbers is: 
+	 ['n', 'u', 'r', 's', 'e', 's', 'r', 'u', 'n']
+	
+	The left  list is:  ['n', 'u', 'r', 's']
+	The right list is:  ['e', 's', 'r', 'u', 'n']
+	
+	Since the total number of relevant alphabets/numbers was odd, so, the new truncated right list is:  ['s', 'r', 'u', 'n']
+	
+	The reversed right list is:  ['n', 'u', 'r', 's']
+	
+	
+	Since, the left list and the reversed right list are equal, therefore, THIS IS A PALINDROME
+	
+	
+	
+	
+	
+	Enter a word, date, statement or sentence to see if it is a palindrome or not: 02/02/2020
+	
+	The list of relevant alphabets and numbers is: 
+	 ['0', '2', '0', '2', '2', '0', '2', '0']
+	
+	The left  list is:  ['0', '2', '0', '2']
+	The right list is:  ['2', '0', '2', '0']
+	
+	The reversed right list is:  ['0', '2', '0', '2']
+	
+	
+	Since, the left list and the reversed right list are equal, therefore, THIS IS A PALINDROME
+	
+	
+	
+	
+	
+	Enter a word, date, statement or sentence to see if it is a palindrome or not: My name is Ans Imran 
+	
+	The list of relevant alphabets and numbers is: 
+	 ['m', 'y', 'n', 'a', 'm', 'e', 'i', 's', 'a', 'n', 's', 'i', 'm', 'r', 'a', 'n']
+	
+	The left  list is:  ['m', 'y', 'n', 'a', 'm', 'e', 'i', 's']
+	The right list is:  ['a', 'n', 's', 'i', 'm', 'r', 'a', 'n']
+	
+	The reversed right list is:  ['n', 'a', 'r', 'm', 'i', 's', 'n', 'a']
+	
+	
+	Since, the left list and the reversed right list are not equal, therefore, THIS IS NOT A PALINDROME
+	```
+- **[Diamond Shape Pattern Printing](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%205%20Diamond%20Printer.ipynb)**
+	This program inputs a number from a user and prints diamond shape pattern.
 
-The list of Vowels    is:  ['a', 'E', 'i', 'O', 'u']
+  	**First Diamond**
+	```
+	Enter the Max Width of the diamond, the length will be adjusted accordingly: 35
+	Enter the character whose diamond you want to print: A
+	                 A
+	                A A
+	               A   A
+	              A     A
+	             A       A
+	            A         A
+	           A           A
+	          A             A
+	         A               A
+	        A                 A
+	       A                   A
+	      A                     A
+	     A                       A
+	    A                         A
+	   A                           A
+	  A                             A
+	 A                               A
+	A                                 A
+	 A                               A
+	  A                             A
+	   A                           A
+	    A                         A
+	     A                       A
+	      A                     A
+	       A                   A
+	        A                 A
+	         A               A
+	          A             A
+	           A           A
+	            A         A
+	             A       A
+	              A     A
+	               A   A
+	                A A
+	                 A
+	```
+	**Second Diamond**
+	```
+	Enter a number:    9
+	
+	
+	
+	         99
+	        8  8
+	       7    7
+	      6      6
+	     5        5
+	    4          4
+	   3            3
+	  2              2
+	 1                1
+	0                  0
+	0                  0
+	 1                1
+	  2              2
+	   3            3
+	    4          4
+	     5        5
+	      6      6
+	       7    7
+	        8  8
+	         99
+	```
+---
 
-The number of vowels  is:  5
-
-
-
-The list of Consonants    is:  ['q', 'w', 'r', 't', 'p', 's']
-
-The number of Consonants  is:  6
-```
-8. **[Reverse Triangle Printing](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%202%20Reverse%20Triangle%20Printer.ipynb)**
-This program inputs a number from a user and prints a reverse triangle pattern.
-```
-Enter the number whose triangle you want to print: 9
-
-1 2 3 4 5 6 7 8 9 
-1 2 3 4 5 6 7 8 
-1 2 3 4 5 6 7 
-1 2 3 4 5 6 
-1 2 3 4 5 
-1 2 3 4 
-1 2 3 
-1 2 
-1 
-```
-
-9. **[Character Count 2.0](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%203%20Character%20Counter.ipynb)**
-This program inputs a statement from a user and individually counts each character repeated in that statement.
-```
-Enter a statement: A bB ccC dddD eeeeE fffffF  .. ~ 99
-The character [A] is repeated 1 times
- 
-The character [ ] is repeated 9 times
- 
-The character [B] is repeated 2 times
- 
-The character [C] is repeated 3 times
- 
-The character [D] is repeated 4 times
- 
-The character [E] is repeated 5 times
- 
-The character [F] is repeated 6 times
- 
-The character [.] is repeated 2 times
- 
-The character [~] is repeated 1 times
- 
-The character [9] is repeated 2 times
-```
-10. **[Palindrome Check](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%204%20Palindrome%20Tester.ipynb)**
-This program inputs a string/number from a user and checks where it is palindrome or not.
-```
-Enter a word, date, statement or sentence to see if it is a palindrome or not: Nurses Run
-
-The list of relevant alphabets and numbers is: 
- ['n', 'u', 'r', 's', 'e', 's', 'r', 'u', 'n']
-
-The left  list is:  ['n', 'u', 'r', 's']
-The right list is:  ['e', 's', 'r', 'u', 'n']
-
-Since the total number of relevant alphabets/numbers was odd, so, the new truncated right list is:  ['s', 'r', 'u', 'n']
-
-The reversed right list is:  ['n', 'u', 'r', 's']
-
-
-Since, the left list and the reversed right list are equal, therefore, THIS IS A PALINDROME
-
-
-
-
-
-Enter a word, date, statement or sentence to see if it is a palindrome or not: 02/02/2020
-
-The list of relevant alphabets and numbers is: 
- ['0', '2', '0', '2', '2', '0', '2', '0']
-
-The left  list is:  ['0', '2', '0', '2']
-The right list is:  ['2', '0', '2', '0']
-
-The reversed right list is:  ['0', '2', '0', '2']
-
-
-Since, the left list and the reversed right list are equal, therefore, THIS IS A PALINDROME
-
-
-
-
-
-Enter a word, date, statement or sentence to see if it is a palindrome or not: My name is Ans Imran 
-
-The list of relevant alphabets and numbers is: 
- ['m', 'y', 'n', 'a', 'm', 'e', 'i', 's', 'a', 'n', 's', 'i', 'm', 'r', 'a', 'n']
-
-The left  list is:  ['m', 'y', 'n', 'a', 'm', 'e', 'i', 's']
-The right list is:  ['a', 'n', 's', 'i', 'm', 'r', 'a', 'n']
-
-The reversed right list is:  ['n', 'a', 'r', 'm', 'i', 's', 'n', 'a']
-
-
-Since, the left list and the reversed right list are not equal, therefore, THIS IS NOT A PALINDROME
-```
-11. **[Diamond Shape Pattern Printing](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A3%20-%205%20Diamond%20Printer.ipynb)**
-This program inputs a number from a user and prints diamond shape pattern.
-**First Diamond**
-```
-Enter the Max Width of the diamond, the length will be adjusted accordingly: 35
-Enter the character whose diamond you want to print: A
-                 A
-                A A
-               A   A
-              A     A
-             A       A
-            A         A
-           A           A
-          A             A
-         A               A
-        A                 A
-       A                   A
-      A                     A
-     A                       A
-    A                         A
-   A                           A
-  A                             A
- A                               A
-A                                 A
- A                               A
-  A                             A
-   A                           A
-    A                         A
-     A                       A
-      A                     A
-       A                   A
-        A                 A
-         A               A
-          A             A
-           A           A
-            A         A
-             A       A
-              A     A
-               A   A
-                A A
-                 A
-```
-**Second Diamond**
-```
-Enter a number:    9
-
-
-
-         99
-        8  8
-       7    7
-      6      6
-     5        5
-    4          4
-   3            3
-  2              2
- 1                1
-0                  0
-0                  0
- 1                1
-  2              2
-   3            3
-    4          4
-     5        5
-      6      6
-       7    7
-        8  8
-         99
-```
 ### Assignment - 4 (Dated: 13-August-2022)
+#### Assignment Topics:
+Here are the basic concepts of Python used in the provided code:
+Nested Loops & Dictionaries.
 
-[Student Data](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A4%20-%201%20Student%20Data.ipynb)
-This program asks student their name, father name, mother name, class, section email address, age and courses he/she wants to enroll and saves the data in a dictionary.
-```
-Enter the name of Student Credential # 1, else, enter [q] to Quit: Student Name
-Please Enter Student Student Name: Imran Khan
+- [Student Data Dictionary](https://github.com/AnsImran/PIAIC---AI-Assignments---Q1/blob/main/A4%20-%201%20Student%20Data.ipynb)
+	This program asks for the following credentials of students:
+	- name
+ 	- father name
+  	- mother name
+  	- class
+  	- section email address
+  	- age
+  	- courses he/she wants to enroll
+  
+  It then saves the data in a dictionary & prints the dictionary.
 
-Enter the name of Student Credential # 2, else, enter [q] to Quit: Age
-Please Enter Student Age: 89
-
-Enter the name of Student Credential # 3, else, enter [q] to Quit: Email Address
-Please Enter Student Email Address: imrankhan@ptimail.com
-
-Enter the name of Student Credential # 4, else, enter [q] to Quit: Courses
-If you want to quit press [q], Else, Enter name of subject # 1: Political Sciences
-
-If you want to quit press [q], Else, Enter name of subject # 2: Macro Economics
-
-If you want to quit press [q], Else, Enter name of subject # 3: q
-
-Enter the name of Student Credential # 5, else, enter [q] to Quit: q
-
-
-
-
-
-
-
-Student Name                       Imran Khan
-
-Age                                89
-
-Email Address                      imrankhan@ptimail.com
-
-Courses                            ['Political Sciences', 'Macro Economics']
-```
+	```
+	Enter the name of Student Credential # 1, else, enter [q] to Quit: Student Name
+	Please Enter Student Student Name: Imran Khan
+	
+	Enter the name of Student Credential # 2, else, enter [q] to Quit: Age
+	Please Enter Student Age: 89
+	
+	Enter the name of Student Credential # 3, else, enter [q] to Quit: Email Address
+	Please Enter Student Email Address: imrankhan@ptimail.com
+	
+	Enter the name of Student Credential # 4, else, enter [q] to Quit: Courses
+	If you want to quit press [q], Else, Enter name of subject # 1: Political Sciences
+	
+	If you want to quit press [q], Else, Enter name of subject # 2: Macro Economics
+	
+	If you want to quit press [q], Else, Enter name of subject # 3: q
+	
+	Enter the name of Student Credential # 5, else, enter [q] to Quit: q
+	
+	
+	
+	
+	
+	
+	
+	Student Name                       Imran Khan
+	
+	Age                                89
+	
+	Email Address                      imrankhan@ptimail.com
+	
+	Courses                            ['Political Sciences', 'Macro Economics']
+	```
